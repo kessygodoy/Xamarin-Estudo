@@ -1,0 +1,15 @@
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\bin\Debug\netstandard2.0\AppGallery.deps.json
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\bin\Debug\netstandard2.0\AppGallery.dll
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\bin\Debug\netstandard2.0\ref\AppGallery.dll
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\bin\Debug\netstandard2.0\AppGallery.pdb
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.csproj.AssemblyReference.cache
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.AssemblyInfoInputs.cache
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.AssemblyInfo.cs
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.csproj.CoreCompileInputs.cache
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.dll
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\refint\AppGallery.dll
+C:\Dev\Xamarin-Estudo\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.pdb
