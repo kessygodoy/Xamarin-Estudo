@@ -7,8 +7,8 @@
     <ProjectGuid>{94B68932-6009-41A5-89F6-F71106F3ABAF}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AppGallery.UWP</RootNamespace>
-    <AssemblyName>AppGallery.UWP</AssemblyName>
+    <RootNamespace>AppGallery.UWP.App</RootNamespace>
+    <AssemblyName>Xamarin Forms Gallery</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion>10.0.22621.0</TargetPlatformVersion>
@@ -145,7 +145,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
-    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.2.12"/>
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.2.12" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
   </ItemGroup>
   <ItemGroup>
